@@ -247,38 +247,38 @@ const default_config = {
       ],
     },
     {
-      name: "Audibox",
+      name: "lab",
       background_url: "src/img/banners/cbg-09.gif", // optional background image
       categories: [
         {
-          name: "resources",
+          name: "links",
           links: [
             {
-              name: "Audibox.cc",
+              name: "audibox.cc",
               url: "https://audibox.cc",
               icon: "ball-volleyball",
               icon_color: palette.red,
             },
             {
-              name: "Audiobookshelf",
+              name: "audiobookshelf",
               url: "https://abs.audibox.cc",
               icon: "ball-volleyball",
               icon_color: palette.yellow,
             },
             {
-              name: "Kavita",
+              name: "kavita",
               url: "https://kavita.audibox.cc",
               icon: "ball-volleyball",
               icon_color: palette.green,
             },
             {
-              name: "Speadarr",
+              name: "speakarr",
               url: "https://speadarr.audibox.cc",
               icon: "ball-volleyball",
               icon_color: palette.pink,
             },
             {
-              name: "Readarr",
+              name: "readarr",
               url: "https://readarr.audibox.cc",
               icon: "ball-volleyball",
               icon_color: palette.peach,
