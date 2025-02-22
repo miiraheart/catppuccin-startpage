@@ -49,25 +49,25 @@ const default_config = {
               name: "protonmail",
               url: "https://protonmail.com",
               icon: "mail",
-              icon_color: palette.purple,
+              icon_color: palette.blue,
             },
             {
               name: "protondrive",
               url: "https://protondrive.com",
               icon: "server",
-              icon_color: palette.purple,
+              icon_color: palette.blue,
             },
             {
               name: "protonvpn",
               url: "https://protonvpn.com",
               icon: "brand-openvpn",
-              icon_color: palette.purple,
+              icon_color: palette.blue,
             },
             {
               name: "protoncalendar",
               url: "https://proton.me/calendar",
               icon: "calendar",
-              icon_color: palette.purple,
+              icon_color: palette.blue,
             },
           ],
         },
@@ -247,8 +247,8 @@ const default_config = {
       ],
     },
     {
-      name: "lab",
-      background_url: "src/img/banners/cbg-09.gif", // optional background image
+      name: "Server",
+      background_url: "src/img/banners/cbg-03.gif",
       categories: [
         {
           name: "links",
