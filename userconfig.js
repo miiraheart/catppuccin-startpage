@@ -4,7 +4,7 @@ const palette = mocha;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "France",
     scale: "C",
   },
   clock: {
@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-09.gif",
+      background_url: "src/img/banners/cbg-14.gif",
       categories: [
         {
           name: "bookmarks",
